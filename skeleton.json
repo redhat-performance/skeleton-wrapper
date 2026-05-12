@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "rhel": [
+      "package1",
+      "package2"
+    ],
+    "ubuntu": [
+      "package1",
+      "package2"
+    ],
+    "amzn": [
+      "package1",
+      "package2"
+    ],
+    "sles": [
+      "package1",
+      "package2"
+    ]
+  }
+}
