@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "rhel": [
-      "valkey"
-    ]
-  }
-}
